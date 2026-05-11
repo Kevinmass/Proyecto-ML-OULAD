@@ -299,6 +299,8 @@ Todas las decisiones de diseño, selección de modelos y validación fueron real
 ---
 
 # Autores
+MASSHOLDER KEVIN
+CARPINETI OCTAVIO
 
 Proyecto desarrollado para la materia:
 Sistemas Inteligentes — 2026
