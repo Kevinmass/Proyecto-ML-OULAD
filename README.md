@@ -71,8 +71,9 @@ Construir un sistema inteligente capaz de analizar y predecir el rendimiento est
 ---
 
 # Estructura del Proyecto
-
-bash project/ │ ├── data/ │   ├── raw/ │   ├── processed/ │   └── external/ │ ├── notebooks/ │   ├── 01_data_understanding.ipynb │   ├── 02_preprocessing.ipynb │   ├── 03_eda.ipynb │   ├── 04_supervised_models.ipynb │   ├── 05_unsupervised_learning.ipynb │   ├── 06_dimensionality_reduction.ipynb │   └── 07_model_explainability.ipynb │ ├── src/ │   ├── preprocessing/ │   ├── features/ │   ├── models/ │   ├── visualization/ │   └── dashboard/ │ ├── models/ │ ├── reports/ │   ├── figures/ │   └── final_report.pdf │ ├── dashboard/ │   └── app.py │ ├── requirements.txt ├── README.md └── .gitignore 
+/root/
+/root/Dataset/(Copiar aca todos los dataset)
+/root/Colab Notebook
 
 ---
 
